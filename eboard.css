@@ -1,0 +1,57 @@
+
+.title1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.Eric{
+    width: 350px;
+    height: 300px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+.Tim{
+    width: 350px;
+    height: 300px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+.Elbin{
+    width: 350px;
+    height: 300px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+.Edwin{
+    width: 350px;
+    height: 300px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+.Elizabeth{
+    width: 350px;
+    height: 300px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+.eboard-2023{
+    padding-left: 80px;
+    padding-right: 48px;
+    
+}
+
+.rows{
+    display: flex;
+}
+
+.cols{
+ text-align: justify;
+ font-size: 22px;
+}

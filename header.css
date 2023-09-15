@@ -1,0 +1,34 @@
+
+.header{      
+    width: 100%;
+    padding: 50px;
+    position: relative;
+    background-color: #002879;
+  }
+  
+  .logo{
+    width: 209px;
+    height: 146px;
+  }
+  
+  .nav{
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+  color: white;
+  }
+  
+  .tabs{
+    padding: 50px 0;
+    padding-right: 50px;
+  }
+  
+  .tabs ul{
+    display: inline;
+    
+  }
+  
+  a:visited, a:hover, a:focus a:active {
+    text-decoration: none;
+    color:white;
+}

@@ -1,0 +1,118 @@
+*{
+  margin:0;
+  font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+}
+
+.app-container{
+  background-color: #002879;
+}
+.section1{
+  padding-left:80px;
+  padding-right:80px;
+  margin-bottom: 30px;
+  background-color: #002879;;
+  text-align: center;
+  font-size: 40px;
+
+  
+}
+
+.famila{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  /* border-color: white; */
+  /* border-width: thick;
+  border-style: solid; */
+  box-sizing: border-box;
+  border-radius: 20px;
+  background-color: #bdd6fa;
+
+}
+.pic{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-color: #002879;
+  border-style: solid;
+  border-width: thick;
+  border-style: solid;
+  box-sizing: border-box;
+  border-radius: 25px;
+  width: 900px;
+
+}
+
+
+.section2{
+text-align:inherit;
+background-color: #002879;;
+color: black;
+padding-left: 80px;
+padding-right: 80px;
+
+}
+
+.section2 p{
+  margin-top: 30px;
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.section3 h1{
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+
+.aboutus{
+  background-color: white;
+  padding: 80px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  border-color: white;
+  border-style: solid;
+  border-width: thick;
+}
+
+.aboutus h1{
+ text-align: center;
+ font-size: 35px;
+
+}
+
+.section3 li{
+  font-size: 22px;
+  line-height: 30px;
+
+}
+
+.offer h1{
+  color:  white;
+  text-align: center;
+}
+
+
+.row{
+  margin:3%;
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.col{
+  flex-basis: 49%;
+  background-color: #bdd6fa;
+  box-sizing: border-box;
+  padding: 50px;
+  border-radius: 20px;
+  border-color: white;
+  border-style: solid;
+  border-width: thick;
+  border-radius: 25px;
+
+}
+
+.col h1{
+  padding-bottom: 20px;
+} 
